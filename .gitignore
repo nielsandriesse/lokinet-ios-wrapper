@@ -25,3 +25,6 @@ DerivedData/
 ## Carthage
 Carthage
 Cartfile.resolved
+
+## macOS
+.DS_Store
